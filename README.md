@@ -39,7 +39,7 @@ npm install redux react-redux
 2. redux toolkit를 사용하는 경우
 
 ```powershell
-npm install @reduxs/toolkit react-redux
+npm install @reduxjs/toolkit react-redux
 ```
 
 **⭐️ 터미널에서 과제 수행에 필요한 라이브러리를 설치하신 후에 진행해 주세요.**
